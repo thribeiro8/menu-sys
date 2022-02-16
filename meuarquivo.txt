@@ -1,0 +1,9 @@
+Danilo;25
+Bruna;20
+Vitoria;11
+Natalia;51
+Jonas;51
+Maria;85
+José;63
+Paulo;39
+Marcela;28
